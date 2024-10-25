@@ -23,3 +23,5 @@ for (let i = 0; i < Numeros.length; i++) {
 }
 
 console.log(Resultado);
+
+
